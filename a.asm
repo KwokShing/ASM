@@ -1,3 +1,4 @@
+;lab 7
 assume cs:codesg, ss:stack
 stack segment
 dw 8 dup (0)
